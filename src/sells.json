@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "object": "déguisement dinosaure",
+        "mois-vente": "mars2025",
+        "montant": 10,
+        "etat": "vendu",
+        "lieu-vente": "vinted"
+    },
+    {
+      "id": 2,
+      "object": "jeu societe Rouge et Noir",
+      "mois-vente": "avril2025",
+      "montant": 5,
+      "etat": "vendu",
+      "lieu-vente": "vinted"
+    },
+    {
+      "id": 3,
+      "object": "fauteuil oval Habitat",
+      "mois-vente": "mai2025",
+      "montant": 25,
+      "etat": "vendu",
+      "lieu-vente": "brocante"
+    },
+    {
+        "id": 3,
+        "object": "miroir vert vigne",
+        "mois-vente": "mai2025",
+        "montant": 15,
+        "etat": "vendu",
+        "lieu-vente": "brocante"
+      },
+      {
+        "id": 4,
+        "object": "aspirateur",
+        "mois-vente": "mai2025",
+        "montant": 20,
+        "etat": "vendu",
+        "lieu-vente": "brocante"
+      }
+  ]
